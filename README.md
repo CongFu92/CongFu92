@@ -94,6 +94,6 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=Gvp9ErEA
 
 - 📧 Email: fc731097343 [at] gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/cong-fu-23b45884?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 💬 [X] (https://x.com/CongFuNSG)
+- 💬 [X](https://x.com/CongFuNSG)
 - 💬 [Zhihu (知乎)](https://www.zhihu.com/people/FU-CONG-BEN)
 
