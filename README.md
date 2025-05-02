@@ -1,6 +1,6 @@
 ## Hi there, I'm Cong Fu (傅聪) 👋
 
-I’m a **Senior Research Scientist** and **Team Manager** at Shopee (Singapore), where I lead a machine learning engineering team dedicated to optimizing merchandise ranking in large-scale e-commerce systems.
+I’m a **Senior Research Scientist** and **Team Manager** at Shopee (Singapore), where I lead a machine learning engineering team dedicated to optimizing merchandise ranking in large-scale e-commerce systems. I am the creator of NSG and SSG algorithm, which is widely used in industry for large-scale vector database.
 
 ### 👯 Research Collaboration
 
