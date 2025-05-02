@@ -52,6 +52,17 @@ Our long-term goal is to bridge **state-of-the-art research** with **real-world 
 
 ---
 
+### 🧭 Background & Experience
+
+- 🎓 **Academic Training**  
+  I received both my Ph.D. and Bachelor's degrees from **Zhejiang University (ZJU)**, where I was fortunate to be mentored by **Professor Xiaofei He** (*National Distinguished Young Scholar*, former Dean of Didi Research Institute) and **Professor Deng Cai** (*National Excellent Young Scholar*).  
+  I also spent time as a **Visiting Scholar at the University of Southern California (USC)**, collaborating with **Professor Xiang Ren** on research in machine learning and knowledge representation.
+
+- 💼 **Industry Experience**  
+  Previously, I worked as an **Expert Machine Learning Engineer at Alibaba Group**, where I contributed to large-scale AI systems and recommendation technologies powering Alibaba's core platforms.
+
+---
+
 ### 💡 Publications & Code
 
 📚 **Academic Profile**  
@@ -75,7 +86,7 @@ Check out my [Google Scholar](https://scholar.google.com/citations?user=Gvp9ErEA
 
 - *Business Driven Recommender Systems: Methodology and Practice* 《业务驱动的推荐系统：方法与实践》
 
-![Business Driven Recommender Systems: Methodology and Practice](book_rec_cover.jpg)
+![Business Driven Recommender Systems: Methodology and Practice](./book_rec_cover.jpg)
 
 ---
 
